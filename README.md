@@ -1,5 +1,3 @@
-# TestOutCertification
-
 <h1>TestOut Security Pro Certification</h1>
 
 <h2>Description</h2>
