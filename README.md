@@ -24,5 +24,5 @@
 
 <h2>Certification Image</h2>
 <p align="center">
-    <img src="path_to_your_image.jpg" height="80%" width="80%" alt="TestOut Security Pro Certification"/>
+    <img src="https://i.imgur.com/Sw2QuJT.jpeg" height="100%" width="100%" alt="TestOut Security Pro Certification"/>
 </p>
